@@ -6,9 +6,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.ace-lectures</groupId>
-    <artifactId>re-21</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <name>RE 2021 tutorial</name>
+    <artifactId>tp0</artifactId>
+    <version>1</version>
+    <name>tp0</name>
     <packaging>jar</packaging>
 
     <properties>
